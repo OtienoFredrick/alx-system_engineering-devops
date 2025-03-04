@@ -1,2 +1,2 @@
-#!/sh/bin/bash
+#!/bin/bash
 cp *.html ..
